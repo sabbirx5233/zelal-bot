@@ -1,0 +1,6 @@
+python-telegram-bot
+opencv-python
+numpy
+pillow
+yt-dlp
+imageio-ffmpeg
