@@ -1,6 +1,7 @@
 python-telegram-bot
-opencv-python
+opencv-python-headless
 numpy
-pillow
-yt-dlp
 imageio-ffmpeg
+yt-dlp
+Pillow
+flask
